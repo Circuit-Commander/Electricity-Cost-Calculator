@@ -13,7 +13,8 @@
 --Friendly GUI for quick calculations
 
 **Installation**
-Download and run the file:
+Download and run the exe-file:
+
 Electricity_and_Cost_Calculator.exe
 
 **Usage**
