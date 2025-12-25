@@ -12,19 +12,7 @@
 
 --Friendly GUI for quick calculations
 
-**Installation**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Electricity-Cost-Calculator.git
-2. Install Python if not already installed.
-
-3. Run the app:
-python main.py
-
-
-##Usage
+**Usage**
 
 1. Enter the device information (found on the charger or adapter) and the electricity price.  
 2. If "total power consumption" is listed, it is recommended to use it.  
@@ -33,6 +21,6 @@ python main.py
 5. Choose between daily, monthly, or yearly cost for the results.
 
 ![App Screenshot](assets/appscreen.png)
-##About
+**About**
 
 This app is perfect for homeowners, hobbyists, or anyone who wants to track and reduce energy costs.
