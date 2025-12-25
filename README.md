@@ -21,6 +21,7 @@
 5. Choose between daily, monthly, or yearly cost for the results.
 
 ![App Screenshot](assets/appscreen.png)
+
 **About**
 
 This app is perfect for homeowners, hobbyists, or anyone who wants to track and reduce energy costs.
