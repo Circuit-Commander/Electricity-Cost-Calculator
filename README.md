@@ -13,3 +13,5 @@
 --Friendly GUI for quick calculations
 
 This app is perfect for homeowners, hobbyists, or anyone who wants to track and reduce energy costs.
+
+![App Screenshot](assets/screenshot.png)
