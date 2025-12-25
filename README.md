@@ -16,7 +16,8 @@
 1. Clone or download the repository from GitHub: click Code → Download ZIP on GitHub.
 2. Install Python (if not already installed): Make sure to check “Add Python to PATH” during installation.
 3. Install required packages (if any): pip install tk
-   Tkinter is usually included with Python, so often no extra packages are needed.
+   
+   (Tkinter is usually included with Python, so often no extra packages are needed.)
 
 **Usage**
 
