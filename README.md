@@ -14,8 +14,8 @@
 
 **Usage**
 
-1. Enter the device information (found on the charger or adapter) and the electricity price.  
-2. If "total power consumption" is listed, it is recommended to use it.  
+1. Enter the device information (ususally found on the charger or adapter) and the electricity price.  
+2. If "total power consumption" is listed on the device, it is recommended to use it. Voltage/current field will be deactivated. 
 3. If a field has a default value and you wish to keep it, you can leave it empty.  
 4. Click **Calculate** to see the electricity cost.  
 5. Choose between daily, monthly, or yearly cost for the results.
