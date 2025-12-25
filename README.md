@@ -13,9 +13,10 @@
 --Friendly GUI for quick calculations
 
 **Installation**
-Download and run the exe-file:
 
-Electricity_and_Cost_Calculator.exe
+--Go to the Releases page: click “Releases” (if visible) 
+
+--or use the URL: https://github.com/Circuit-Commander/Electricity-Cost-Calculator/releases
 
 **Usage**
 
